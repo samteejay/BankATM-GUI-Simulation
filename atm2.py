@@ -1,5 +1,6 @@
 """
 File: atm2.py
+Author: Samuel Tijani
 This module defines a GUI-based ATM class and its application.
 To test, launch from IDLE and run
 >>> createBank(5)
